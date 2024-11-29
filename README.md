@@ -1,2 +1,1 @@
-# Sea
-fdvd
+alert("Scripts Loaded")
